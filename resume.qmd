@@ -97,7 +97,7 @@ Data Scientist with academic research background and years of industry experienc
 \vspace{-0.16cm}
 * Work in a client-facing, project delivery role for data science and analytics use cases across a variety of industries in the public and private sector
 * Building and deploying predictive models to guide decision making for business managers and executives
-* Assessing and auditing predictive models for model performance, fairness, and bias
+* Assessing and auditing models for model performance, fairness, and bias
 * Delivering hands-on training and "office hours" advising for clients and organizations on topics within the fields of data science and visualization
 
 \vspace{7pt}
@@ -166,17 +166,22 @@ Predicting the Costs of War. \textit{Journal of Defense Modeling and Simulation}
 
 \vspace{7pt}
 
+\newpage
+
 <!-- PERSONAL PROJECTS : 1ST BULLET -->
 \begin{large}
 {\bf PERSONAL PROJECTS}
   \vspace{3pt}
   \hrule
+\end{large}
+\vspace{-0.16cm}
+In my free time I frequently work on side projects to explore new methods and techniques for my work as a consultant (which I cannot show). The following projects are examples of projects I am working on.
+  
   \begin{multicols}{2}
     \begin{flushleft}\textit{\href{https://phenrickson.github.io/boardgames.html}{Predicting Upcoming Board Games}}\end{flushleft}
     \begin{flushright}2022-2023\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
-\end{large}
 * Created R package for collecting BoardGameGeek (BGG) data to train predictive models at the BGG community level (complexity, average rating, etc) for upcoming board game releases
 * Trained predictive models [for individual users](https://phenrickson.github.io/bgg_collections/) to recommend new games to individuals [based on their collections](https://phenrickson.github.io/bgg_collections/).
 * Developed pipelines to collect data on upcoming releases and deliver predictions from a suite of models (penalized linear regressions, xgboost, lightgbm) via GitHub Actions, Google Cloud Storage, and Quarto
