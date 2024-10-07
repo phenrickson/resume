@@ -75,7 +75,9 @@ Data Scientist with academic research background and 6 years of experience in a 
   \hrule
 \end{large}
 \vspace{-0.16cm}
-**Languages and Tools** - *proficient:* R, Git/GitHub, SQL, Quarto, RMarkdown, GCP, Shiny *intermediate:* Python, Docker, AWS/Azure \newline
+**Languages and Tools** \newline
+- *proficient:* R, Git/GitHub, SQL, Quarto, RMarkdown, GCP, Shiny \newline
+- *intermediate:* Python, Docker, AWS/Azure \newline
 **Selected Coursework** - Applied Machine Learning, Causal Inference, Statistical Learning, Maximum Likelihood Estimation, Time Series, Research Design, Survey Design
 
 <!-- EXPERIENCE : 1ST BULLET-->
