@@ -1,0 +1,194 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+<!-- TITLE -->
+\begin{huge}\begin{center}{\bf PHIL HENRICKSON, PHD}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+\begin{center}phil.henrickson@gmail.com ∙ Madison, WI ∙ \href{https://phenrickson.github.io}{Personal Site} ∙ \href{https://github.com/phenrickson}{GitHub} ∙ \href{https://www.linkedin.com/in/phenrickson/}{LinkedIn}
+\end{center}
+\vspace{15pt}
+
+<!-- EDUCATION: 1ST BULLET -->
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Florida State University}\end{flushleft}
+    \begin{flushright}Tallahassee, FL\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Doctor of Philosophy: Political Science \end{flushleft}
+  \end{multicols}
+    \vspace{-0.17cm}
+    \vspace{-0.17cm}
+  \begin{flushleft}Dissertation: \textit{Applied Predictive Modeling for Measurement and Inference in International Conflict and Political Violence}\end{flushleft}
+\end{large}
+
+\vspace{0.05cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Texas A\&M University}\end{flushleft}
+    \begin{flushright}College Station, TX\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Bachelor of Science: Political Science\end{flushleft}
+  \end{multicols}
+\end{large}
+\vspace{1.5pt}
+
+\begin{large}{\bf SUMMARY}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+Data Scientist with academic research background and 6 years of experience in a client-facing role. Experience in scoping, developing, and delivering data/analytics projects, with an emphasis on **predictive modeling**, **causal inference**, and **data visualization**. Accomplished speaker with featured talks at conferences and enterprise organizations throughout the state of Wisconsin.
+
+<!-- SKILLS -->
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+**Languages and Tools** - *proficient:* R, Git/GitHub, SQL, Quarto, RMarkdown, GCP, Shiny *intermediate:* Python, Docker, AWS/Azure \newline
+**Selected Coursework** - Applied Machine Learning, Causal Inference, Statistical Learning, Maximum Likelihood Estimation, Time Series, Research Design, Survey Design
+
+<!-- EXPERIENCE : 1ST BULLET-->
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf AE Business Solutions}\end{flushleft}
+    \begin{flushright}2019-Present\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Data Scientist}\end{flushleft}
+    \begin{flushright}Madison, WI\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* Work in a client-facing, project delivery role for data science and analytics use cases across a variety of industries, public and private sector
+* Building and deploying predictive models to guide decision making for business managers and executives
+* Assessing and auditing predictive models for model performance, fairness, and bias
+* Delivering hands-on training and "office hours" advising for clients and organizations on topics within the fields of data science and visualization
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 2ND BULLET -->
+\begin{large}
+  \vspace{3pt}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf AE Business Solutions}\end{flushleft}
+    \begin{flushright}2018-2019\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Business Intelligence Engineer}\end{flushleft}
+    \begin{flushright}Madison, WI\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* Developing interactive dashboards and data visualizations to communicate insights and statistical methods to general public
+* Training business and data analysts in research methods, data preparation, and data visualization (R, Alteryx, Tableau)
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 3RD BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Florida State University}\end{flushleft}
+    \begin{flushright}2013-2018\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Research Assistant}\end
+    {flushleft}\begin{flushright}Tallahassee, FL\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Performed statistical modeling in R and Stata for prediction and hypothesis testing in social science research.
+* Assisted professors by collecting, cleaning, and preparing data sets for data visualization and presentation in academic research papers.
+* Literature reviews of sub fields in international relations, comparative politics, statistics, and computer science.
+
+\vspace{7pt}
+
+\begin{large}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Instructor}\end
+    {flushleft}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Created original syllabi and lecture materials for Political Violence, Civil Wars, and International Relations classes.
+* Assigned semester-long research papers, working with students to develop their academic writing skills and mentor their applications for graduate school.
+* Taught programming with R to graduate students and held supplementary sessions for statistical modeling and programming.
+
+\vspace{7pt}
+
+<!-- RESEARCH -->
+\begin{large}
+{\bf RESEARCH}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+Predicting the Costs of War. \textit{Journal of Defense Modeling and Simulation}. Special Issue on Forecasting in the Social Sciences for National Security (J17-1). January 2020.
+
+\vspace{7pt}
+
+<!-- PERSONAL PROJECTS : 1ST BULLET -->
+\begin{large}
+{\bf SELECTED PROJECTS}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{\href{https://phenrickson.github.io/boardgames.html}{Predicting Upcoming Board Games}}\end{flushleft}
+    \begin{flushright}2022-2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Created R package for collecting BoardGameGeek (BGG) data to train predictive models at the BGG community level (complexity, average rating, etc) for upcoming board game releases
+* Trained predictive models [for individual users](https://phenrickson.github.io/bgg_collections/) to recommend new games to individuals [based on their collections](https://phenrickson.github.io/bgg_collections/).
+* Developed pipelines to collect data on upcoming releases and deliver predictions from a suite of models (penalized linear regressions, xgboost, lightgbm) via GitHub Actions, Google Cloud Storage, and Quarto
+
+\vspace{7pt}
+
+<!-- PERSONAL PROJECTS : 2nd BULLET -->
+\begin{large}
+  \vspace{3pt}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{\href{https://phenrickson.github.io/cfb.html}{College Football Predictions and Rankings}}\end{flushleft}
+    \begin{flushright}2024\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+\end{large}
+* Estimating [opponent-adjusted team offensive/defensive efficiency](https://phenrickson.github.io/cfb_models/estimating_efficiency.html) for all FBS teams at the weekly level using play by play data and [predicted points added per play](https://phenrickson.github.io/cfb_models/expected_points.html).
+* Use team efficiency ratings as inputs into my (Bayesian) game prediction model to [estimate team ratings](https://phenrickson.github.io/cfb_models/season_report.html) and [simulate upcoming college football games](https://phenrickson.github.io/cfb_models/predicting_games.html).
