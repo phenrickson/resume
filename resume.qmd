@@ -1,6 +1,6 @@
 ---
 format: 
-  pdf: 
+  pdf:
     documentclass: article
     geometry:
       - top=10mm
@@ -67,7 +67,7 @@ format:
   \hrule
 \end{large}
 \vspace{-0.16cm}
-Data Scientist with academic research background and 6 years of experience in a client-facing role. Experience in scoping, developing, and delivering data/analytics projects, with an emphasis on **predictive modeling**, **causal inference**, and **data visualization**. Accomplished speaker with featured talks at conferences and enterprise organizations throughout the state of Wisconsin.
+Data Scientist with academic research background and years of industry experience in a client-facing role. Demonstrated experience in scoping, developing, and delivering data/analytics projects, with an emphasis on **predictive modeling**, **causal inference**, and **data visualization**. Accomplished speaker with featured talks at conferences and enterprise organizations throughout the state of Wisconsin.
 
 <!-- SKILLS -->
 \begin{large}{\bf SKILLS}
@@ -95,7 +95,7 @@ Data Scientist with academic research background and 6 years of experience in a 
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Work in a client-facing, project delivery role for data science and analytics use cases across a variety of industries, public and private sector
+* Work in a client-facing, project delivery role for data science and analytics use cases across a variety of industries in the public and private sector
 * Building and deploying predictive models to guide decision making for business managers and executives
 * Assessing and auditing predictive models for model performance, fairness, and bias
 * Delivering hands-on training and "office hours" advising for clients and organizations on topics within the fields of data science and visualization
@@ -168,7 +168,7 @@ Predicting the Costs of War. \textit{Journal of Defense Modeling and Simulation}
 
 <!-- PERSONAL PROJECTS : 1ST BULLET -->
 \begin{large}
-{\bf SELECTED PROJECTS}
+{\bf PERSONAL PROJECTS}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
