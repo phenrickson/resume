@@ -93,7 +93,7 @@ Data Scientist with scientific research background, strong communication skills,
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Scientist}\end{flushleft}
+    \begin{flushleft}\textit{Senior Data Scientist}\end{flushleft}
     \begin{flushright}Madison, WI\end{flushright}\end
   {multicols}
 \end{large}
