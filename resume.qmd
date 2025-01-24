@@ -48,7 +48,7 @@ Data Scientist with scientific research background, strong communication skills,
 \vspace{-0.16cm}
 *Proficient*: R, Python, Git/GitHub, SQL, Quarto, Shiny, Markdown, Tableau, Alteryx \newline
 *Intermediate*: Docker, GCP/AWS/Azure \newline
-Machine Learning, Causal Inference, Statistical Learning, Maximum Likelihood Estimation, Time Series, Research Design, Survey Design
+Machine Learning, Causal Inference, Statistical Learning, Time Series, Research Design, Survey Design
 
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
