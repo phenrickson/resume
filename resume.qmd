@@ -48,7 +48,7 @@ Data Scientist with scientific research background, strong communication skills,
 \vspace{-0.16cm}
 *Proficient*: R, Python, Git/GitHub, SQL, Quarto, Shiny, Markdown, Tableau, Alteryx \newline
 *Intermediate*: Docker, GCP/AWS/Azure \newline
-**Selected Coursework**: Applied Machine Learning, Causal Inference, Statistical Learning, Maximum Likelihood Estimation, Time Series, Research Design, Survey Design
+Machine Learning, Causal Inference, Statistical Learning, Time Series, Research Design, Survey Design
 
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
@@ -89,7 +89,7 @@ Data Scientist with scientific research background, strong communication skills,
   \hrule
   \begin{multicols}{2}
     \begin{flushleft}{\bf AE Business Solutions}\end{flushleft}
-    \begin{flushright}2019-Present\end{flushright}
+    \begin{flushright}2022-Present\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -98,20 +98,31 @@ Data Scientist with scientific research background, strong communication skills,
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Work in a client-facing, project delivery role for data science and analytics use cases across a variety of industries in the public and private sector
-* Serve as technical liaison between data science teams and senior leadership, translating complex analyses into actionable recommendations to inform strategic decisions
-* Building data pipelines and deploying predictive models within DevOps frameworks
-* Assess organizational practices for data science and audit models for performance, fairness, and bias
-* Deliver hands-on training and "office hours" advising for clients on topics within the fields of data science
+* Work in a client-facing, project delivery role for data science/engineering/analytics use cases at enterprise organizations
+* Act as technical liaison between data science teams and senior leadership, translating complex analyses into actionable recommendations and strategic decisions
+* Train data scientists to implement DevOps processes tailored for data science and machine learning workflows
 
-\vspace{7pt}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf AE Business Solutions}\end{flushleft}
+    \begin{flushright}2020-2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Data Scientist}\end{flushleft}
+    \begin{flushright}Madison, WI\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+* Building data pipelines, training and assessing predictive models within client environments
+* Assessing organizational practices for data science use cases and auditing models for performance, fairness, and bias
+* Delivering hands-on training and "office hours" advising for clients on specialized topics within the fields of data science
 
 <!-- EXPERIENCE : 2ND BULLET -->
 \begin{large}
-  \vspace{3pt}
   \begin{multicols}{2}
     \begin{flushleft}{\bf AE Business Solutions}\end{flushleft}
-    \begin{flushright}2018-2019\end{flushright}
+    \begin{flushright}2018-2020\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
@@ -154,7 +165,7 @@ Data Scientist with scientific research background, strong communication skills,
 \end{large}
 \vspace{-0.16cm}
 * Created original syllabi and lecture materials for Political Violence, Civil Wars, and International Relations classes.
-* Assigned semester-long research papers, working with students to develop their academic writing skills and mentor their applications for graduate school.
+* Assigned research papers, working with students to develop their academic writing skills and mentor their applications for graduate school.
 * Taught programming with R to graduate students and held supplementary sessions for statistical modeling and programming.
 
 \vspace{7pt}
